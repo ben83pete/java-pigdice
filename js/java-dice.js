@@ -1,5 +1,4 @@
 
-
 function playGames(){
     var idx = 0;
     var highScore = 0;
